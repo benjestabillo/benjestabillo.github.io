@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GLOBAL FILIPINAS</title>
+<title>ILOCOS FOOD & PRODUCTS</title>
 <link rel="stylesheet" href="C:\Users\Benj Estabillo\Downloads\work\WEBTECH 2\bootstrap-5.3.0-alpha1-dist\css\bootstrap.min.css">
 <script src="C:\Users\Benj\Downloads\work\WEBTECH 2\bootstrap-5.3.0-alpha1-dist\js\bootstrap.bundle.min.js"></script>
 </head>
 <body>
     <style>
         body{
-            background-color: rgba(151, 133, 62, 0.966);
+            background-color: rgba(244, 222, 131, 0.966);
         }
         h1{
             text-align: center;
@@ -25,23 +25,15 @@
         
         }
         .container-md{
-            background-color: rgb(255, 255, 255);
+            background-color: rgba(255, 248, 219, 0.966);
         }
     </style>
 <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
     <div class="container-fluid">
-        <a href="#" class="navbar-brand">ILOCANO FOOD</a>
+        <a href="#" class="navbar-brand">ILOCANO FOOD & PRODUCTS</a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav">
-                <a href="#" class="nav-item nav-link active">Home</a>
-                <a href="#" class="nav-item nav-link">Services</a>
-                <a href="#" class="nav-item nav-link">About</a>
-                <a href="#" class="nav-item nav-link">Contact</a>
-            </div>
-            
         </div>
     </div>
 </nav>
@@ -52,41 +44,39 @@
         <h1>ILOCOS EMPANADA</h1>
         <p class="lead">Ilocos empanada is simply rice wrapper filled with various ingredients, then deep-fried in a wok with very hot oil, cooked until crisp, and cooled for a few minutes. The eating commences after chipping off the corner to expose the steaming-hot filling inside.</p>
         <div class="col-sm-3">
-                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F243053711112329904%2F&psig=AOvVaw0WpTLiwhj2fu9ONmb9MiMH&ust=1677398947808000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMi1oJmcsP0CFQAAAAAdAAAAABAI">
+            <img allign="left" width="460" height="300" src="https://orangemagazine.ph/wp-content/uploads/2014/07/empanada-ilocos-norte-photo-by-edsel-ochoa.jpg">
         </div>
     </div>
     <div class="p-1"></div>
     <div class="row">
         <div class="col-md bg-light rounded-5">
-            <h2>COTTON BED SHEETS</h2>
-            <p>Your t-shirts are made out of it, cotton candy is named after it, and its the most common material used to make bed sheets. Its breathable, forgiving when removing stains (adios blood stains), and stays cool. Cotton sheets also soften up with time and washes while maintaining their durability.
-                When choosing these types of sheets, however, be aware that the type of cotton matters, as some outperform others.</p>
+            <h2>ILOCOS LONGGANISA</h2>
+            <p>Vigan longganisa, also known as the Ilocano longganisa, is a Filipino pork sausage originating from Vigan City, Ilocos Sur. It is a type of de recado longganisa.
+                What is the taste of Ilocano longganisa?
+The way to describe its taste is, it is spicy, salty, tangy and garlicky. To make this sausage more authentic, we used sukang Iloko or native vinegar and native garlic from Ilocos region. To make your hearty breakfast, you can serve this with fried rice and a fried egg.
+            </p>
                 <div class="col-sm-3">
-                    <img src="C:\Users\Christian Kenneth\Downloads\work\WEBTECH 2\sheets2.jpg" class="img-fluid" alt="Responsive image">
+                    <img allign="rigth" width="440" height="300" src="https://i0.wp.com/www.angsarap.net/wp-content/uploads/2020/02/Vigan-Longganisa-Edit.jpg?w=1080&ssl=1">
             </div>
             <hr>
                 <p><a href="https://www.theweddingvowsg.com/best-cotton-bedsheets-philippines/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
         </div>
         <div class="row p-1"></div>
         <div class="col-md bg-light rounded-5">
-            <h2>BAMBOO BED SHEETS</h2>
-            <p>As an environmentally friendly material, bamboo grows quickly and is commonly used to make other household goods aside from bed sheets. The process of making bamboo sheets entails extracting bamboo cellulose and weaving the fibers into what’s called bamboo rayon. 
-
-                These jungle plant sheets are softer than polyester or linen and are known to be wrinkle-resistant. Aside from this, bamboo sheets are durable, hypoallergenic, and breathable. </p>
+            <h2>ILOCOS BAGNET</h2>
+            <p>Bagnet (Northern Ilocano and Tagalog pronunciation: [bɐgˈnɛt], Southern Ilocano pronunciation: [bɐgˈnɯt]), locally also known as "chicharon" in Ilocano, is a Filipino dish consisting of pork belly (liempo) boiled and deep fried until it is crispy. It is seasoned with garlic, black peppercorns, bay leaves, and salt. </p>
                 <div class="col-sm-3">
-                    <img src="C:\Users\Christian Kenneth\Downloads\work\WEBTECH 2\sheets3.jpg" class="img-fluid" alt="Responsive image">
+                    <img  width="460" height="300" src="https://foodtalephilsfood.files.wordpress.com/2018/09/bagnetbagoong-dangeles640.jpg">
             </div>
             <hr>
                 <p><a href="https://aslreviews.com/6-benefits-bamboo-bed-sheets/#:~:text=Bamboo%20fibers%20contain%20an%20antimicrobial,dry%2C%20even%20after%20many%20washes." target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
         </div>
         <div class="row p-1"></div>
         <div class="col-md bg-light rounded-5">
-            <h2>POLYESTER BED SHEETS</h2>
-            <p>Most pure polyester sheets are rough, while polyester blends tend to be much softer and provide a higher level of comfort. These sheets are easy to wash, wrinkle-resistant, and often quite affordable. If you’re looking for sheets you don’t need to steam or iron, polyester will be your best friend.
-
-                However, despite its pros — including the inherent water-resistance — polyester absorbs oil and grease and will leave you with the nightmare of trying to remove stains, particularly with white sheets. </p>
+            <h2>SUKANG ILOCOS</h2>
+            <p>Sukang Ilocos is fermented from sugarcane juice and samak leaves, traditionally left in burnay jars to age, first to basi (Ilocano wine) until it turns to vinegar, when color and flavor become darker and perfectly stronger.</p>
                 <div class="col-sm-3">
-                    <img src="C:\Users\Christian Kenneth\Downloads\work\WEBTECH 2\sheets4.jpg" class="img-fluid" alt="Responsive image">
+                    <img width="460" height="300" src="http://2.bp.blogspot.com/-JGyVh6n6t9Y/VHhf8PxZbCI/AAAAAAAAAVQ/kpcJFEi1Ggo/s1600/2470464577_131ab658e1.jpg">
             </div>
             <hr>
                 <p><a href="https://www.healthline.com/health/healthy-sleep/polyester-sheets" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
