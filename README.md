@@ -44,7 +44,7 @@
         <h1>ILOCOS EMPANADA</h1>
         <p class="lead">Ilocos empanada is simply rice wrapper filled with various ingredients, then deep-fried in a wok with very hot oil, cooked until crisp, and cooled for a few minutes. The eating commences after chipping off the corner to expose the steaming-hot filling inside.</p>
         <div class="col-sm-3">
-            <img allign="left" width="460" height="320" src="https://orangemagazine.ph/wp-content/uploads/2014/07/empanada-ilocos-norte-photo-by-edsel-ochoa.jpg">
+            <img align="center" width="460" height="320" src="https://orangemagazine.ph/wp-content/uploads/2014/07/empanada-ilocos-norte-photo-by-edsel-ochoa.jpg">
         </div>
     </div>
     <div class="p-1"></div>
@@ -56,7 +56,7 @@
 The way to describe its taste is, it is spicy, salty, tangy and garlicky. To make this sausage more authentic, we used sukang Iloko or native vinegar and native garlic from Ilocos region. To make your hearty breakfast, you can serve this with fried rice and a fried egg.
             </p>
                 <div class="col-sm-3">
-                    <img allign="left" width="440" height="340" src="https://i0.wp.com/www.angsarap.net/wp-content/uploads/2020/02/Vigan-Longganisa-Edit.jpg?w=1080&ssl=1">
+                    <img align="center" width="440" height="340" src="https://i0.wp.com/www.angsarap.net/wp-content/uploads/2020/02/Vigan-Longganisa-Edit.jpg?w=1080&ssl=1">
             </div>
             <hr>
                 <p><a href="https://www.theweddingvowsg.com/best-cotton-bedsheets-philippines/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
@@ -66,7 +66,7 @@ The way to describe its taste is, it is spicy, salty, tangy and garlicky. To mak
             <h2>ILOCOS BAGNET</h2>
             <p>Bagnet (Northern Ilocano and Tagalog pronunciation: [bɐgˈnɛt], Southern Ilocano pronunciation: [bɐgˈnɯt]), locally also known as "chicharon" in Ilocano, is a Filipino dish consisting of pork belly (liempo) boiled and deep fried until it is crispy. It is seasoned with garlic, black peppercorns, bay leaves, and salt. </p>
                 <div class="col-sm-3">
-                    <img  allign="left" width="460" height="340" src="https://foodtalephilsfood.files.wordpress.com/2018/09/bagnetbagoong-dangeles640.jpg">
+                    <img  align="center" width="460" height="340" src="https://foodtalephilsfood.files.wordpress.com/2018/09/bagnetbagoong-dangeles640.jpg">
             </div>
             <hr>
                 <p><a href="https://aslreviews.com/6-benefits-bamboo-bed-sheets/#:~:text=Bamboo%20fibers%20contain%20an%20antimicrobial,dry%2C%20even%20after%20many%20washes." target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
@@ -76,7 +76,7 @@ The way to describe its taste is, it is spicy, salty, tangy and garlicky. To mak
             <h2>SUKANG ILOCOS</h2>
             <p>Sukang Ilocos is fermented from sugarcane juice and samak leaves, traditionally left in burnay jars to age, first to basi (Ilocano wine) until it turns to vinegar, when color and flavor become darker and perfectly stronger.</p>
                 <div class="col-sm-3">
-                    <img allign=left; width="460" height="340" src="http://2.bp.blogspot.com/-JGyVh6n6t9Y/VHhf8PxZbCI/AAAAAAAAAVQ/kpcJFEi1Ggo/s1600/2470464577_131ab658e1.jpg">
+                    <img align="center" width="460" height="340" src="http://2.bp.blogspot.com/-JGyVh6n6t9Y/VHhf8PxZbCI/AAAAAAAAAVQ/kpcJFEi1Ggo/s1600/2470464577_131ab658e1.jpg">
             </div>
             <hr>
                 <p><a href="https://www.healthline.com/health/healthy-sleep/polyester-sheets" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
