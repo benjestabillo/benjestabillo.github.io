@@ -1,17 +1,18 @@
-# benjestabillo.github.io
+# benjestabillo
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>HOLY SHEETS</title>
-<link rel="stylesheet" href="C:\Users\Christian Kenneth\Downloads\work\WEBTECH 2\bootstrap-5.3.0-alpha1-dist\css\bootstrap.min.css">
-<script src="C:\Users\Christian Kenneth\Downloads\work\WEBTECH 2\bootstrap-5.3.0-alpha1-dist\js\bootstrap.bundle.min.js"></script>
+<title>GLOBAL FILIPINAS</title>
+<link rel="stylesheet" href="C:\Users\Benj Estabillo\Downloads\work\WEBTECH 2\bootstrap-5.3.0-alpha1-dist\css\bootstrap.min.css">
+<script src="C:\Users\Benj\Downloads\work\WEBTECH 2\bootstrap-5.3.0-alpha1-dist\js\bootstrap.bundle.min.js"></script>
 </head>
 <body>
     <style>
         body{
-            background-color: rgba(255, 222, 111, 0.911);
+            background-color: rgba(255, 185, 185, 0.911);
         }
         h1{
             text-align: center;
